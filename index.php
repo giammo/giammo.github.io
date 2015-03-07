@@ -2,11 +2,15 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>PRova Pagina GitHub</title>
+    <title>Prova Pagina GitHub</title>
 </head>
 <body>
 
 <h1>Pagina GitHub</h1>
+    
+    <?php
+        echo date();
+    ?>
 
 </body>
 </html>
