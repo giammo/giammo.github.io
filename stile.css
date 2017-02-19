@@ -1,7 +1,14 @@
 body {
-    background-color: lightblue;
+    background-color: lightyellow;
 }
 
 h1 {
-    color: green;
+    color: red;
+}
+
+#div_id{
+    width: 300px;
+    height: 200px;
+    background-color: aquamarine;
+    margin-top: 50px;
 }
